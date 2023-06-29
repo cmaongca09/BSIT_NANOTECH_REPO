@@ -1,0 +1,49 @@
+Literature Review and supporting information
+ Observation
+	The knowledge and control of matter at the nanoscale describe nanotechnology, which has
+emerged as a promising topic with significant economic development potential in the twenty-first century.
+Because of its revolutionary character, scholars have compared its influence on that of information and
+communications technology. However, the commercialization of nanotechnology raises goals, difficulties,
+and effects that demand investigation. Based on a survey of academic researchers in the Finnish
+nanotechnology community, this essay explores many issues of commercializing nanotechnology. The
+research offers insight on the distinctive motivations, relationships, challenges, and outcomes associated with
+people intensively involved in nanotechnology research compared to researchers in other disciplines by
+examining individual-level survey data.
+
+
+	According to Richard Feynman's key lecture from 1959, which pushed for investigating nanoscale
+phenomena, the enthusiasm around nanotechnology is a trigger for this. In addition to the predominate focus
+on large-scale scientific activities, his idea that there is "plenty of room at the bottom" led scientists to turn
+their attention to the complexities of the nanoscale. Nanotechnology was further advanced by the
+introduction of ground-breaking microscopy advancements like the scanning tunneling microscope (STM)
+and atomic force microscope (AFM) in the early 1980s.
+Nanotechnology is the study and manipulation of matter at the nanoscale, or one billionth of a meter,
+scale. It involves manipulating, measuring, modeling, and visualizing matter at this scale, requiring
+multidisciplinary expertise from physics and chemistry subfields. The top-down and bottom-up
+methodological methods are the two main ones, with the former being more common. The bottom-up
+strategy still has some challenges to overcome, though. An examination of the private sector's demand for
+this potentially revolutionary technology is necessary due to nanotechnology's radical and gradual qualities.
+
+ Literature Review
+Scientists are looking at methods to increase the availability of safe, affordable, and renewable
+energy sources, as well as ways to cut down on energy use and lessen environmental damage.
+Nanotechnology solar panel studies are more successful in converting sunlight into electricity, and
+nanostructured solar cells may be produced using techniques like printing and assembled into small sheets.
+Energy efficiency products are increasing, such as more efficient lighting systems with considerably lower
+power consumption, lighter and stronger transport chassis materials, low energy use in advanced electronics,
+low-friction nano mastic lubricants, pumps, and fans, and high-light strength and fast recharge lanterns for
+emergency crews. Nanotechnology has a variety of applications in the environment, including tools for
+detecting and eliminating hazardous chemicals from contaminated water sources. It has the potential to
+significantly improve the personalization, usability, cost-effectiveness, dependability, and simplicity of a wide
+range of medical and biotechnological tools and procedures.
+Early-detection molecular imaging makes use of nanoscale components to detect and record
+genetic and molecular occurrences, allowing for variation of molecular signals associated with malignancy.
+Nanoparticles are used in multifunctional treatment to deliver effective medication to cancer cells while
+reducing the harm to healthy tissue.
+Medical operations and therapies have been changed by nanotechnology, becoming more
+specialized, compact, straightforward, healthier, and simpler to carry out. Quantum dots, which help improve
+biological imaging in medical diagnostics, are semiconductor nanocrystals. Nanoscale sensors can detect
+cell and molecule movements while they are in their environment, and microfluidic chip-based nanolabs can
+manipulate and control individual cells. Research is being done on nanotechnology to help nerve cells
+proliferate, for example, in damaged spinal cord or brain cells. In one way, a nanostructured gel bridges the
+space between a cell's existing neighbors and encourages the growth of new ones.
