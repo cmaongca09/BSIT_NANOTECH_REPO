@@ -1,0 +1,28 @@
+Uses of Nanotechnology
+	Nanotechnology is helping to considerably improve, even revolutionize, many technology and Industry Sectors such as: Information Technology, Homeland Security, Medicine, Transportation, 	Energy, food safety, environmental science, etc.
+	•	Nanotechnology can use in everyday materials and processes; it can benefits depend on the fact that it is possible to tailor the structures of materials at extremely small scales to 		achieve specific properties. Using Nanotechnology, materials can effectively be made stronger, lighter, more durable, more reactive, more sieve-like, or better electrical 		conductors, among many others.
+		o	Nano-bioengineering of enzymes is aiming to enable the cellulose from wood chips, corn stalks, unfertilized perennial grasses, etc., into ethanol for fuel.
+		o	Cellulosic nanomaterials have demonstrated potential applications in a wide array of industrial sectors, including electronics, construction, packaging, food, energy, health 			care, automotive, and defense.
+		o	Light weighting of cars, trucks, airplanes, boats, and space craft could lead to significant fuel savings.
+		o	Nanoscale additives to or surface treatments of fabrics can provide lightweight ballistic energy deflection in personal body armor, or can help them resist wrinkling, 			staining, and bacterial growth.
+		o	Nanostructured ceramic coatings exhibit much greater toughness than conventional wear-resistant coatings for machine parts.
+	•	Nanotechnology has greatly contributed for IT and Engineering to major advances in computing and electronics, leading to faster smaller, and more portable systems that can manage 		and store larger and larger amounts of information.
+		o	Using magnetic random access memory (MRAM), computers will be able to “boot” almost instantly.
+		o	Ultra-high definition displays and televisions are now being sold that use quantum dots to produce more vibrant colors while being more energy efficient.
+		o	nanomaterials like graphene and cellulosic nanomaterials are being used for various types of flexible electronics to enable wearable and “tattoo” sensors, photovoltaics that 			can be sewn onto clothing, and electronic paper that can be rolled up.
+	•	Nanotechnology is already larger and contributed in the medical tools, knowledge, and therapies currently available to clinicians. The application of nanotechnology in medicine, it 		draws on biological phenomena to produce precise solutions for disease prevention, diagnosis, and treatment.
+		o	Commercial applications have adapted gold nanoparticles as probes for the detection of targeted sequences of nucleic acids, and gold nanoparticles are also being clinically 		investigated as potential treatments for cancer and other diseases.
+		o	Nanotechnology is being studied for both the diagnosis and treatment of atherosclerosis, or the buildup of plaque in arteries.
+		o	Use of nanotechnology for regenerative medicine spans several application areas, including bone and neural tissue engineering.
+	•	Nanotechnology is finding application in traditional energy sources and is greatly enhancing alternative energy approaches to help meet the world’s increasing energy demands. Many 		scientists are looking into ways to develop clean, affordable, and renewable energy sources, along with means to reduce energy consumption and lessen toxicity burdens on the 		environment.
+		o	Nanotechnology is improving the efficiency of fuel production from raw petroleum materials through better catalysis.
+		o	Nanotechnology is also being applied to oil and gas extraction through, for example, the use of nanotechnology-enabled gas lift valves in offshore operations or the use of 			nanoparticles to detect microscopic down-well oil pipeline fractures. 
+		o	Nanotechnology can be incorporated into solar panels to convert sunlight to electricity more efficiently, promising inexpensive solar power in the future.
+		o	Nanotechnology is already being used to develop many new kinds of batteries that are quicker-charging, more efficient, lighter weight, have a higher power density, and hold 			electrical charge longer. 
+	•	It can also use Environmental remediation that can help improve energy efficiency, there are also many ways that it can help detect and clean up environmental contaminants.
+		o	Nanotechnology could help meet the need for affordable, clean drinking water through rapid, low-cost detection and treatment of impurities in water. 
+		o	Nanoparticles are being developed to clean industrial water pollutants in ground water through chemical reactions that render the pollutants harmless.
+		o	Nanotechnology-enabled sensors and solutions are now able to detect and identify chemical or biological agents in the air and soil with much higher sensitivity than ever 			before.
+	•	Nanotechnology offers the promise of developing multifunctional materials that will contribute to building and maintaining lighter, safer, smarter, and more efficient vehicles, 		aircraft, spacecraft, and ships.
+		o	Nanoscale sensors and devices may provide cost-effective continuous monitoring of the structural integrity and performance of bridges, tunnels, rails, parking structures, 			and pavements over time.
+		o	Nanoscale sensors, communications devices, and other innovations enabled by Nano electronics can also support an enhanced transportation infrastructure that can communicate 			with vehicle-based systems to help drivers maintain lane position, avoid collisions, adjust travel routes to avoid congestion, and improve drivers’ interfaces to onboard 			electronics.
